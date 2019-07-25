@@ -10,7 +10,12 @@ These are the proposed session titles. They may well be amended.
 <h4>Exceptional Access</h4>
 <h4>Surveillance</h4>
 
-**Each of the above has a seperate Issue in this repository.**
+**Each of the above has a seperate "Issue" in this repository.**
 <br>
 Discussion may be contained within those, if required.
+
+**Each of the above has a seperate "Category" on the forum as well.**
+<br>
+Discussion may be contained there, if required.
+
 
